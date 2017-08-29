@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Livinghelper</string>
+
+    <string name="network_interrupted">网络中断，请检查您的网络状态</string>
+    <string name="example_show_request_result">显示请求结果</string>
+    <string name="example_request_api">请求接口</string>
+
+</resources>
